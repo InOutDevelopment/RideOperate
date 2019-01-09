@@ -1,0 +1,6 @@
+name: RideOperate
+version: DEV
+main: nl.roboticsmilan.rideop.Main
+author: RoboticsMilan
+commands:
+  rideop:
